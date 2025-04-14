@@ -11,11 +11,11 @@
 
 🌱 I’m currently learning **platform engineering, DevOps, and advanced backend architecture.**
 
-💬 Ask me about **JavaScript, TypeScript, FastAPI, NestJS, Vector Databases, Kafka, and AI integration.**
+💬 Ask me about **JavaScript, TypeScript, GoLAng, FastAPI, NestJS, Vector Databases, Kafka, and AI integration.**
 
-👨‍💻 All of my projects are available at [Programmers Studio](https://www.programmersstudio.org)
+👨‍💻 All of my projects are available at [Here](https://github.com/pulkit-khullar)
 
-📫 How to reach me: **pulkit.khullar.dev@gmail.com**
+📫 How to reach me: **pulkitkhullar15@gmail.com**
 
 📝 I also write on [LinkedIn](https://www.linkedin.com/in/pulkit-khullar/)
 
